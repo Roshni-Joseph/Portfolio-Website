@@ -167,7 +167,7 @@ html{
 }
 .skillimg{
     background: -webkit-linear-gradient(to right, #60878a, #e1eec3);
-    background: linear-gradient(to right, #60878a, #e1eec3);
+    background: linear-gradient(to right, #f1eee88c, #987b5b);
     text-align: center;
 }
 .skill li{
